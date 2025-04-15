@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/sudarshan/gitprojects/webpage",
+	"sourceRoot": "/Users/sudarshan/gitprojects/website",
 	"sources": [
 		"ananke/css/main.css"
 	],

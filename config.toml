@@ -1,5 +1,5 @@
 title = "Prakruti Sudarshan"
-baseURL = "http://localhost:1313/"
+baseURL = "https://prakrutisudarshan.github.io/"
 theme = "ananke"
 resourceDir = "./resources"
 
