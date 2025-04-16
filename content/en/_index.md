@@ -10,17 +10,18 @@ cascade:
   featured_image: '/images/asteroids.jpeg'
 ---
 <div style="text-align: center; font-size: 0.85rem; font-style: italic; margin-top: -80px;">
-Featured image: Map of the solar system with orbits of more than 18000 asteroids shown at its position on New Years’ Eve 1999, made by Eleanor Lutz
+Featured image: Map of the solar system with orbits of more than 18000 asteroids shown at their positions on New Years’ Eve 1999, made by Eleanor Lutz
 </div>
 <br>
 <br>
-{{< image-text src="/images/prak.jpg" alt="Example Image" >}}
+
+{{< image-text src="images/prak.JPG" alt="Example Image" >}}
 Hi there! My name is Prakruti, you can call me "Kruti".
 <br><br> I am a PhD student in the Planet and Star Formation (PSF) department at the <a href="https://www.mpia.de/en">Max Planck Institute for Astronomy</a> (MPIA), Heidelberg, Germany. I am also a Fellow of the <a href="https://www.imprs-hd.mpg.de/471664/Sudarshan-Prakruti">International Max Planck Research School for Astronomy and Cosmic Physics</a> (IMPRS-HD).
 <br><br>
-I work on planet formation theory with <a href="https://mario-flock.de/">Dr. Mario Flock</a> (<a href="https://www.ufos-project.eu/">UFOS</a> project), studying dust-gas dynamics of star-light heated protoplanetary disks– in specific, testing the effects of stellar irradiation on disk geometry using radiation hydrodynamics. <br>I also currently have ongoing collaborations on circumbinary disks, pressureless dust fluids, gravitational instability, and streaming instability.
+I work on planet formation theory with <a href="https://mario-flock.de/">Dr. Mario Flock</a> (<a href="https://www.ufos-project.eu/">UFOS</a> project), studying dust-gas dynamics of star-light heated protoplanetary disks– specifically, testing the effects of stellar irradiation on disk geometry using radiation hydrodynamics. <br>I also have ongoing collaborations on modeling circumbinary disks, pressureless dust fluids, gravitational instability, and streaming instability.
 <br><br>
-An updated list of all my publications can be found on the <a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&q=author%3A%22Sudarshan%2C%20Prakruti%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> NASA ADS</a> library or my <a href="https://orcid.org/0000-0001-9073-497X">ORCID</a>. Find my full CV <a href="/CV/">here</a>.
+An updated list of all my publications can be found on the <a href="https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=((database%3Aastronomy%20OR%20database%3Aphysics))&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(((database%3Aastronomy%20OR%20database%3Aphysics))%20AND%20database%3A%22astronomy%22)&q=author%3A%22Sudarshan%2C%20Prakruti%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> NASA ADS</a> library or my <a href="https://orcid.org/0000-0001-9073-497X">ORCID</a>. Find my full CV <a href="/cv/">here</a>.
 {{< /image-text >}}
 <br>
 
@@ -31,7 +32,7 @@ __PhD Student, Max Planck Insitute for Astronomy & Universität Heidelberg__ (IM
 `Oct 2020 - Sep 2022`  
 __Master of Science, Astro and Particle Physics, Universität Tübingen__
 
-`May 2017 - July 2020`  
+`May 2017 - June 2020`  
 __Bachelor of Science (PCM), Christ University, Bangalore__
 <br><br>
 
