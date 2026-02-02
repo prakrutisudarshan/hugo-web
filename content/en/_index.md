@@ -44,13 +44,14 @@ __Bachelor of Science (PCM), Christ University, Bangalore__
 - Scattered light substructures and their origins
 <br><br>
 
-## Publications
+## Publications:
 
+### Major contribution
 {{< publication-box 
     title="Shadows and staircases in starlight heated protoplanetary disks: Limits to the irradiation instability with FLD"
-    author="Sudarshan, P. et al." 
-    journal="in prep" 
-    link="https://ui.adsabs.harvard.edu/abs/2024eas..conf.2270S/abstract" 
+    author="Sudarshan, P., Flock, M., Ziampras, A., Melon Fuksman, D. & Birnstiel, T." 
+    journal="in press, A&A" 
+    link="https://ui.adsabs.harvard.edu/abs/2025arXiv251114733S/abstract" 
 >}}
 
 {{< publication-box 
@@ -67,12 +68,6 @@ __Bachelor of Science (PCM), Christ University, Bangalore__
     link="https://ui.adsabs.harvard.edu/abs/2025MNRAS.536.3322Z/abstract" 
 >}}
 
-{{< publication-box 
-    title="Support for fragile porous dust in a gravitationally self-regulated disk around IM Lup" 
-    author="Ueda, T., Tazaki, R., Okuzumi, S., Flock, M. & Sudarshan, P." 
-    journal="Nature Astronomy (2024), 8, 1148" 
-    link="https://ui.adsabs.harvard.edu/abs/2024NatAs...8.1148U/abstract" 
->}}
 
 {{< publication-box 
     title="How cooling influences circumbinary disks?" 
@@ -80,3 +75,21 @@ __Bachelor of Science (PCM), Christ University, Bangalore__
     journal="A&A (2022), 664, A157" 
     link="https://ui.adsabs.harvard.edu/abs/2022A%26A...664A.157S/abstract" 
 >}}
+
+
+### Other co-authored publications
+
+{{< publication-box 
+    title="The role of detailed gas and dust opacities in shaping the evolution of the inner disc edge subject to episodic accretion" 
+    author="Cecil, M., Flock, M., Malygin, M. G., Kuiper, R., Sudarshan, P. & Ziampras, A." 
+    journal="A&A (under review)" 
+    link="" 
+>}}
+
+{{< publication-box 
+    title="Support for fragile porous dust in a gravitationally self-regulated disk around IM Lup" 
+    author="Ueda, T., Tazaki, R., Okuzumi, S., Flock, M. & Sudarshan, P." 
+    journal="Nature Astronomy (2024), 8, 1148" 
+    link="https://ui.adsabs.harvard.edu/abs/2024NatAs...8.1148U/abstract" 
+>}}
+
